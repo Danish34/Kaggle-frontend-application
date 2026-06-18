@@ -1,0 +1,6 @@
+{
+  "name": "Atmosphere Effects Board",
+  "description": "A formal, high-fidelity visual effects dashboard containing interactive Snowflake and Balloon simulation panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
